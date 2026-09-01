@@ -1,0 +1,6 @@
+{
+  "name": "Rocket Flight Predictor",
+  "description": "Streamlit rocket flight outcome prediction app powered by RocketPy simulations, regression model comparisons, classification, clustering, and anomaly detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
